@@ -1,4 +1,5 @@
-### Hi there my name's Matthew. I'm a OSS Developer who loves the Modern Web. 👋
+### Hi there my name's Matthew.  
+I'm a OSS Developer who loves the Modern Web. 👋
 
 ![mxttwoods's github stats](https://github-readme-stats.vercel.app/api?username=mxttwoods&count_private=true)
 
