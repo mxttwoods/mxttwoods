@@ -2,10 +2,13 @@
 
 I'm a Contract Developer who loves the Modern Web 🔮 & Python 🐍 
 
-![mxttwoods's github stats](https://github-readme-stats.vercel.app/api?username=mxttwoods&count_private=true)
+<a href="https://github.com/mxttwoods">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mxttwoods&repo=github-readme-stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxttwoods&layout=compact)](https://github.com/mxttwoods/)
-
+<a href="https://github.com/mxttwoods">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxttwoods&layout=compact" />
+</a>
 
 <!--
 **mxttwoods/mxttwoods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
