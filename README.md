@@ -1,5 +1,6 @@
 ### Hi there my name's Matthew Woods 👋
-I'm a developer who loves the Modern Web 🔮 & Python 🐍  
+
+I'm a developer who loves the Modern Web 🔮, Python 🐍,  
 
 ... and sometimes Java ☕️
 
